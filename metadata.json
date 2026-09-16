@@ -1,0 +1,6 @@
+{
+  "name": "Gothic Inventory Manager",
+  "description": "Aplikasi pengelola inventaris artefak dan busana fashion bertema Dark Gothic dengan iringan tunggal Danse Macabre Op. 40 karya Camille Saint-Saëns, serta koleksi boneka Pullip Darina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
